@@ -44,7 +44,7 @@ The model achieves an RMSE of [insert RMSE value], indicating [provide context f
 
 ### Visualizations
 
-![Actual vs. Predicted Energy Consumption](path/to/visualization.png)
+![Actual vs. Predicted Energy Consumption](/visualization.png)
 
 The plot above compares the actual and predicted energy consumption over a specific time period. The model captures [highlight any notable patterns or trends].
 
